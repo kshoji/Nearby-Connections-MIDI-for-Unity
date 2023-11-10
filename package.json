@@ -9,9 +9,6 @@
         "type": "git",
         "url": "ssh://git@github.com/kshoji/Nearby-Connections-MIDI-for-Unity.git"
     },
-    "dependencies": {
-        "jp.kshoji.unity.nearby": "ssh://git@github.com/kshoji/Nearby-Connections-for-Unity.git"
-    },
     "author": "Kaoru Shoji",
     "changelogUrl": "https://github.com/kshoji/Nearby-Connections-MIDI-for-Unity/blob/main/CHANGELOG.md",
     "documentationUrl": "https://github.com/kshoji/Nearby-Connections-MIDI-for-Unity/blob/main/README.md",
