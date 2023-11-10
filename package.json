@@ -1,0 +1,29 @@
+{
+    "name": "jp.kshoji.unity.nearby.midi",
+    "displayName": "Nearby Connections MIDI",
+    "description": "Nearby Connections MIDI plugin implementation",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "license": "Apache License 2.0",
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/kshoji/Nearby-Connections-MIDI-for-Unity.git"
+    },
+    "dependencies": {
+        "jp.kshoji.unity.nearby": "ssh://git@github.com/kshoji/Nearby-Connections-for-Unity.git"
+    },
+    "author": "Kaoru Shoji",
+    "changelogUrl": "https://github.com/kshoji/Nearby-Connections-MIDI-for-Unity/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/kshoji/Nearby-Connections-MIDI-for-Unity/blob/main/README.md",
+    "licensesUrl": "https://github.com/kshoji/Nearby-Connections-MIDI-for-Unity/blob/main/LICENSE",
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "The full feature sample for this package.",
+            "path": "Samples~/SampleProject"
+        }
+    ],
+    "keywords": [
+        "Nearby", "Connections", "Android", "iOS", "macOS"
+    ]
+}
