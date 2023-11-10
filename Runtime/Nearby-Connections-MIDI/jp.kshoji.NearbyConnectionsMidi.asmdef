@@ -1,0 +1,21 @@
+{
+    "name": "jp.kshoji.NearbyConnectionsMidi",
+    "rootNamespace": "jp.kshoji.unity.nearby.midi",
+    "references": [
+        "GUID:bd8d1189a6582c445aae41cdfab66790"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "macOSStandalone"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
