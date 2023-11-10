@@ -9,11 +9,12 @@ MIDI data transports using [Nearby Connections](https://developers.google.com/ne
 
 (The Nearby seems to be also worked on Windows, but I couldn't build the binary.)
 
-# Install the package on the Unity Package Manager
+# Install packages on the Unity Package Manager
 Push the `+` button on the Unity's Package Manager view, and select `Add package from git URL…` menu.  
-Then specify the URL below:
+Then specify the URLs below:
 
 ```text
+ssh://git@github.com/kshoji/Nearby-Connections-for-Unity.git
 ssh://git@github.com/kshoji/Nearby-Connections-MIDI-for-Unity.git
 ```
 
