@@ -15,6 +15,8 @@ Then specify the URLs below:
 
 ```text
 ssh://git@github.com/kshoji/Nearby-Connections-for-Unity.git
+```
+```text
 ssh://git@github.com/kshoji/Nearby-Connections-MIDI-for-Unity.git
 ```
 
